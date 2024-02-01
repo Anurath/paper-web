@@ -1,0 +1,30 @@
+/*
+
+ #228B22
+#808080
+
+Open sans
+lora
+
+*/
+
+.name{
+    font-family:sans-serif;
+    text-align:center;
+}
+.navbar{
+    background: #228B22;
+    color:white;
+}
+.hover:hover{
+    border-bottom:3px solid black;
+}
+.webname{
+    font-weight:80px;
+}
+.fw-bold {
+    font-weight: 600!important;
+}
+.text-body-secondary {
+    color:black;
+}
